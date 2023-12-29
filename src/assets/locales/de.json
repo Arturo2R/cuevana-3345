@@ -1,20 +1,20 @@
 {
   "about": {
-    "description": "movie-web ist eine Web-App, welche das Internet nach Streams durchsucht. Das Team versucht einen minimalistischen Ansatz umzusetzen.",
+    "description": "Cuevana 3345 ist eine Web-App, welche das Internet nach Streams durchsucht. Das Team versucht einen minimalistischen Ansatz umzusetzen.",
     "faqTitle": "Häufig gestellte Fragen",
     "q1": {
-      "body": "movie-web hostet keinen eigenen Inhalt. Wenn du auf etwas zum Anschauen klickst, wird das Internet danach durchsucht (Auf dem Ladebildschirm und im Tab \"Videoquellen\" kannst du einstellen, welche Quellen verwendet werden sollen). movie-web lädt keine Videos hoch, alles Videos stammen aus der Suche.",
+      "body": "Cuevana 3345 hostet keinen eigenen Inhalt. Wenn du auf etwas zum Anschauen klickst, wird das Internet danach durchsucht (Auf dem Ladebildschirm und im Tab \"Videoquellen\" kannst du einstellen, welche Quellen verwendet werden sollen). Cuevana 3345 lädt keine Videos hoch, alles Videos stammen aus der Suche.",
       "title": "Woher kommen die Videos?"
     },
     "q2": {
-      "body": "Das Anfragen von Serien oder Filmen ist nicht möglich. movie-web verwaltet keine Inhalte. Alle Videos stammen vom Quellen aus dem Internet.",
+      "body": "Das Anfragen von Serien oder Filmen ist nicht möglich. Cuevana 3345 verwaltet keine Inhalte. Alle Videos stammen vom Quellen aus dem Internet.",
       "title": "Wo kann ich eine Serie oder einen Film anfragen?"
     },
     "q3": {
       "body": "Unsere Suchergebnisse werden von The Movie Database (TMDB) bereitgestellt und angezeigt, egal ob unsere Videoquellen über dieses Video verfügen.",
       "title": "Die Suche zeigt eine Serie oder einen Film an, warum kann ich den dann nicht abspielen?"
     },
-    "title": "Über movie-web"
+    "title": "Über Cuevana 3345"
   },
   "actions": {
     "copied": "Kopiert",
@@ -80,7 +80,7 @@
   "footer": {
     "legal": {
       "disclaimer": "Hinweis",
-      "disclaimerText": "movie-web hostet keine Dateien, sondern verlinkt lediglich auf Dienste Dritter. Rechtliche Fragen sollten mit den Dateihostern und -anbietern geklärt werden. movie-web übernimmt keine Verantwortung für die von den Videoanbietern angezeigten Mediendateien."
+      "disclaimerText": "Cuevana 3345 hostet keine Dateien, sondern verlinkt lediglich auf Dienste Dritter. Rechtliche Fragen sollten mit den Dateihostern und -anbietern geklärt werden. Cuevana 3345 übernimmt keine Verantwortung für die von den Videoanbietern angezeigten Mediendateien."
     },
     "links": {
       "discord": "Discord",
@@ -90,12 +90,12 @@
     "tagline": "Schau deine Lieblingsserien und Filme mit dieser quelloffenen Streaming App."
   },
   "global": {
-    "name": "movie-web",
+    "name": "Cuevana 3345",
     "pages": {
       "about": "Über",
       "dmca": "DMCA",
       "login": "Anmelden",
-      "pagetitle": "{{title}} - movie-web",
+      "pagetitle": "{{title}} - Cuevana 3345",
       "register": "Registrieren",
       "settings": "Einstellungen"
     }
@@ -186,7 +186,7 @@
         "unknownLanguage": "Unbekannt"
       },
       "downloads": {
-        "disclaimer": "Videos werden direkt vom Provider heruntergeladen. movie-web hat nicht steuern, wie die Downloads bereitgestellt werden.",
+        "disclaimer": "Videos werden direkt vom Provider heruntergeladen. Cuevana 3345 hat nicht steuern, wie die Downloads bereitgestellt werden.",
         "downloadCaption": "Ausgewählte Untertitel herunterladen",
         "downloadVideo": "Video herunterladen",
         "onAndroid": {
@@ -305,7 +305,7 @@
   },
   "screens": {
     "dmca": {
-      "text": "Willkommen zu movie-webs DMCA-Kontaktseite! Wir respektieren geistiges Eigentum und wollen uns schnell um urheberrechtlichen Anliegen kümmern. Falls du glaubst, dass dein urheberrechtlich geschütztes Werk unsachgemäß auf unserer Plattform verwendet wurde, sende uns bitte eine genaue DMCA-Anfrage an die unten stehende E-Mail. Diese sollte eine Beschreibung des urheberrechtlich geschützten Material, deine Kontaktinformationen sowie einer Erklärung des guten Glaubens beinhalten. Wir sind engagiert diese Anliegen schnell zu lösen und schätzen deine Hilfe dabei movie-web zu einer Plattform, welche Kreativität und Urheberrechte respektiert.",
+      "text": "Willkommen zu Cuevana 3345s DMCA-Kontaktseite! Wir respektieren geistiges Eigentum und wollen uns schnell um urheberrechtlichen Anliegen kümmern. Falls du glaubst, dass dein urheberrechtlich geschütztes Werk unsachgemäß auf unserer Plattform verwendet wurde, sende uns bitte eine genaue DMCA-Anfrage an die unten stehende E-Mail. Diese sollte eine Beschreibung des urheberrechtlich geschützten Material, deine Kontaktinformationen sowie einer Erklärung des guten Glaubens beinhalten. Wir sind engagiert diese Anliegen schnell zu lösen und schätzen deine Hilfe dabei Cuevana 3345 zu einer Plattform, welche Kreativität und Urheberrechte respektiert.",
       "title": "DMCA"
     },
     "loadingApp": "Die App wird geladen",

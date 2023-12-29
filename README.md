@@ -4,13 +4,13 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,vite,ts" />
   <br/>
-  <a href="https://discord.movie-web.app"><kbd>🔵 discord</kbd></a> <a href="https://movie-web.app"><kbd>🟢 website</kbd></a>
+  <a href="https://discord.Cuevana 3345.app"><kbd>🔵 discord</kbd></a> <a href="https://Cuevana 3345.app"><kbd>🟢 website</kbd></a>
 </p>
 <br/><br/>
 
-# ⚡What is movie-web?
+# ⚡What is Cuevana 3345?
 
-movie-web is a web app for watching movies easily. Check it out at <a href="https://movie-web.app"><kbd>movie-web.app</kbd></a>.
+Cuevana 3345 is a web app for watching movies easily. Check it out at <a href="https://Cuevana 3345.app"><kbd>Cuevana 3345.app</kbd></a>.
 
 This service works by displaying video files from third-party providers inside an intuitive and aesthetic user interface.
 
@@ -55,9 +55,9 @@ pnpm build
 
 # 🥔 Selfhosting
 
-A simple guide has been written to assist in hosting your own instance of movie-web. Check it out below
+A simple guide has been written to assist in hosting your own instance of Cuevana 3345. Check it out below
 
-|[Selfhosting guide](https://docs.movie-web.app)|
+|[Selfhosting guide](https://docs.Cuevana 3345.app)|
 |---|
 
 

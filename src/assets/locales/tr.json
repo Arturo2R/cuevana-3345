@@ -1,20 +1,20 @@
 {
   "about": {
-    "description": "movie-web internette akışlar için tarama yapan bir web uygulamasıdır. Ekip, içerik tüketmeye karşı ekseriyetle minimalist bir yaklaşım sergilemektedir.",
+    "description": "Cuevana 3345 internette akışlar için tarama yapan bir web uygulamasıdır. Ekip, içerik tüketmeye karşı ekseriyetle minimalist bir yaklaşım sergilemektedir.",
     "faqTitle": "Sıkça sorulan sorular",
     "q1": {
-      "body": "movie-web herhangi bir içerik barındırmaz. İzlemek için bir şeye tıkladığınızda, seçilen medya için internette arama yapılır (Yükleme ekranında ve 'video kaynakları' sekmesinde hangi kaynağı kullandığınızı görebilirsiniz). Medya hiçbir zaman movie-web tarafından yüklenmez, her şey bu arama mekanizması aracılığıyla gerçekleşir.",
+      "body": "Cuevana 3345 herhangi bir içerik barındırmaz. İzlemek için bir şeye tıkladığınızda, seçilen medya için internette arama yapılır (Yükleme ekranında ve 'video kaynakları' sekmesinde hangi kaynağı kullandığınızı görebilirsiniz). Medya hiçbir zaman Cuevana 3345 tarafından yüklenmez, her şey bu arama mekanizması aracılığıyla gerçekleşir.",
       "title": "İçerikler nereden geliyor?"
     },
     "q2": {
-      "body": "Bir dizi veya film talep etmek mümkün değildir, movie-web içeriklerin hiçbirini yönetmez. Tüm içerikler internet üzerindeki kaynaklar aracılığıyla görüntülenir.",
+      "body": "Bir dizi veya film talep etmek mümkün değildir, Cuevana 3345 içeriklerin hiçbirini yönetmez. Tüm içerikler internet üzerindeki kaynaklar aracılığıyla görüntülenir.",
       "title": "Bir dizi veya filmi nereden talep edebilirim?"
     },
     "q3": {
       "body": "Arama sonuçlarımız The Movie Database (TMDB) tarafından desteklenmektedir ve kaynaklarımızın içeriğe gerçekten sahip olup olmadığına bakılmaksızın görüntülenir.",
       "title": "Arama sonuçları diziyi veya filmi gösteriyor, neden oynatamıyorum?"
     },
-    "title": "movie-web hakkında"
+    "title": "Cuevana 3345 hakkında"
   },
   "actions": {
     "copied": "Kopyalandı",
@@ -80,7 +80,7 @@
   "footer": {
     "legal": {
       "disclaimer": "Sorumluluk Reddi",
-      "disclaimerText": "movie-web herhangi bir dosya barındırmaz, yalnızca 3. parti hizmetlere bağlantı verir. Yasal meseleler, dosya barındırıcıları ve sağlayıcıları ile görüşülmelidir. movie-web, video sağlayıcıları tarafından gösterilen hiçbir medya dosyasından sorumlu değildir."
+      "disclaimerText": "Cuevana 3345 herhangi bir dosya barındırmaz, yalnızca 3. parti hizmetlere bağlantı verir. Yasal meseleler, dosya barındırıcıları ve sağlayıcıları ile görüşülmelidir. Cuevana 3345, video sağlayıcıları tarafından gösterilen hiçbir medya dosyasından sorumlu değildir."
     },
     "links": {
       "discord": "Discord",
@@ -90,12 +90,12 @@
     "tagline": "Bu açık kaynaklı akış uygulamasıyla en sevdiğiniz dizileri ve filmleri izleyin."
   },
   "global": {
-    "name": "movie-web",
+    "name": "Cuevana 3345",
     "pages": {
       "about": "Hakkında",
       "dmca": "DMCA",
       "login": "Giriş yap",
-      "pagetitle": "{{title}} - movie-web",
+      "pagetitle": "{{title}} - Cuevana 3345",
       "register": "Kayıt ol",
       "settings": "Ayarlar"
     }
@@ -186,7 +186,7 @@
         "unknownLanguage": "Bilinmeyen"
       },
       "downloads": {
-        "disclaimer": "İndirme bağlantıları doğrudan sağlayıcının kendisinden alınır. movie-web'in sağlanan indirme bağlantıları üzerinde hiçbir konrolü yoktur.",
+        "disclaimer": "İndirme bağlantıları doğrudan sağlayıcının kendisinden alınır. Cuevana 3345'in sağlanan indirme bağlantıları üzerinde hiçbir konrolü yoktur.",
         "downloadCaption": "Geçerli altyazıyı indir",
         "downloadVideo": "Videoyu indir",
         "onAndroid": {
@@ -305,7 +305,7 @@
   },
   "screens": {
     "dmca": {
-      "text": "Movie-web'in DMCA iletişim sayfasına hoş geldiniz! Fikri mülkiyet haklarına saygı duyuyoruz ve telif hakkıyla ilgili endişeleri hızlı bir şekilde ele almak istiyoruz. Telif hakkıyla korunan çalışmanızın platformumuzda uygunsuz şekilde kullanıldığını düşünüyorsanız lütfen aşağıdaki e-postaya ayrıntılı bir DMCA bildirimi gönderin. Lütfen telif hakkıyla korunan materyalin açıklamasını, iletişim bilgilerinizi ve iyi niyet beyanınızı ekleyin. Bu sorunları derhal çözmeye kararlıyız ve ayrıca movie-web'i yaratıcılığa ve telif haklarına saygılı bir yer olarak tutma konusundaki işbirliğiniz için teşekkür ederiz.",
+      "text": "Cuevana 3345'in DMCA iletişim sayfasına hoş geldiniz! Fikri mülkiyet haklarına saygı duyuyoruz ve telif hakkıyla ilgili endişeleri hızlı bir şekilde ele almak istiyoruz. Telif hakkıyla korunan çalışmanızın platformumuzda uygunsuz şekilde kullanıldığını düşünüyorsanız lütfen aşağıdaki e-postaya ayrıntılı bir DMCA bildirimi gönderin. Lütfen telif hakkıyla korunan materyalin açıklamasını, iletişim bilgilerinizi ve iyi niyet beyanınızı ekleyin. Bu sorunları derhal çözmeye kararlıyız ve ayrıca Cuevana 3345'i yaratıcılığa ve telif haklarına saygılı bir yer olarak tutma konusundaki işbirliğiniz için teşekkür ederiz.",
       "title": "DMCA"
     },
     "loadingApp": "Uygulama yükleniyor",

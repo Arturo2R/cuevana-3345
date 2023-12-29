@@ -1,11 +1,11 @@
 {
   "about": {
-    "description": "movie-web on veebirakendus, mis otsib internetti voogude jaoks. Meeskonna eesmärk on enamasti minimalistlik lähenemine sisu tarbimisele.",
+    "description": "Cuevana 3345 on veebirakendus, mis otsib internetti voogude jaoks. Meeskonna eesmärk on enamasti minimalistlik lähenemine sisu tarbimisele.",
     "q1": {
-      "body": "movie-web ei hoiusta enda sisu. Kui klõpsate, et midagi vaadata, otsitakse valitud meediat internetist (laadimisekraanil ja vahekaardil \"videoallikad\" näete, millist allikat te kasutate). Meediat ei lae movie-web kunagi üles, kõik toimub selle otsingumehhanismi kaudu."
+      "body": "Cuevana 3345 ei hoiusta enda sisu. Kui klõpsate, et midagi vaadata, otsitakse valitud meediat internetist (laadimisekraanil ja vahekaardil \"videoallikad\" näete, millist allikat te kasutate). Meediat ei lae Cuevana 3345 kunagi üles, kõik toimub selle otsingumehhanismi kaudu."
     },
     "q2": {
-      "body": "Saadet või filmi ei ole võimalik taotelda, movie-web ei halda mingit sisu. Kogu sisu vaadatakse interneti allikate kaudu."
+      "body": "Saadet või filmi ei ole võimalik taotelda, Cuevana 3345 ei halda mingit sisu. Kogu sisu vaadatakse interneti allikate kaudu."
     }
   },
   "auth": {
@@ -67,16 +67,16 @@
   },
   "footer": {
     "legal": {
-      "disclaimerText": "movie-web ei hoiusta ühtegi faili, vaid ainult lingib kolmandate osapoolte teenustele. Juriidilised küsimused tuleks lahendada failihostide ja teenusepakkujatega. movie-web ei vastuta videopakkujate poolt näidatud meediafailide eest."
+      "disclaimerText": "Cuevana 3345 ei hoiusta ühtegi faili, vaid ainult lingib kolmandate osapoolte teenustele. Juriidilised küsimused tuleks lahendada failihostide ja teenusepakkujatega. Cuevana 3345 ei vastuta videopakkujate poolt näidatud meediafailide eest."
     }
   },
   "global": {
-    "name": "movie-web",
+    "name": "Cuevana 3345",
     "pages": {
       "about": "Meist",
       "dmca": "DMCA",
       "login": "Logi sisse",
-      "pagetitle": "{{title}} - movie-web",
+      "pagetitle": "{{title}} - Cuevana 3345",
       "register": "Registreeri",
       "settings": "Sätted"
     }
@@ -151,7 +151,7 @@
         "unknownLanguage": "Teadmata"
       },
       "downloads": {
-        "disclaimer": "Allalaadimine toimub otse teenusepakkujalt. movie-web ei saa kontrollida, kuidas allalaadimine toimub.",
+        "disclaimer": "Allalaadimine toimub otse teenusepakkujalt. Cuevana 3345 ei saa kontrollida, kuidas allalaadimine toimub.",
         "downloadCaption": "Lae alla praegused subtiitrid",
         "downloadVideo": "Lae alla video",
         "onAndroid": {
@@ -270,7 +270,7 @@
   },
   "screens": {
     "dmca": {
-      "text": "Tere tulemast movie-webi DMCA kontaktilehele! Me austame intellektuaalomandi õigusi ja soovime kiiresti lahendada kõik autoriõigusega seotud probleemid. Kui usute, et teie autoriõigusega kaitstud tööd on meie platvormil vääralt kasutatud, saatke palun üksikasjalik DMCA-teade alljärgnevale e-posti aadressile. Palun lisage autoriõigusega kaitstud materjali kirjeldus, oma kontaktandmed ja avaldus heauskse veendumuse kohta. Oleme pühendunud nende küsimuste kiirele lahendamisele ja hindame teie koostööd, et movie-web oleks koht, kus austatakse loovust ja autoriõigusi."
+      "text": "Tere tulemast Cuevana 3345i DMCA kontaktilehele! Me austame intellektuaalomandi õigusi ja soovime kiiresti lahendada kõik autoriõigusega seotud probleemid. Kui usute, et teie autoriõigusega kaitstud tööd on meie platvormil vääralt kasutatud, saatke palun üksikasjalik DMCA-teade alljärgnevale e-posti aadressile. Palun lisage autoriõigusega kaitstud materjali kirjeldus, oma kontaktandmed ja avaldus heauskse veendumuse kohta. Oleme pühendunud nende küsimuste kiirele lahendamisele ja hindame teie koostööd, et Cuevana 3345 oleks koht, kus austatakse loovust ja autoriõigusi."
     },
     "loadingApp": "Rakenduse laadimine",
     "loadingUser": "Teie profiili laadimine",

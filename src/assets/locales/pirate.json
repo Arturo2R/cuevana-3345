@@ -56,7 +56,7 @@
   "footer": {
     "legal": {
       "disclaimer": "Disclaimer",
-      "disclaimerText": "movie-web does not host any files, it merely links to 3rd party services. Legal issues should be taken up with the file hosts and providers. movie-web be not responsible for any media files shown by the video providers."
+      "disclaimerText": "Cuevana 3345 does not host any files, it merely links to 3rd party services. Legal issues should be taken up with the file hosts and providers. Cuevana 3345 be not responsible for any media files shown by the video providers."
     },
     "links": {
       "discord": "Discord",
@@ -66,12 +66,12 @@
     "tagline": "Watch yer favorite shows and movies with this open source streaming ship."
   },
   "global": {
-    "name": "movie-web",
+    "name": "Cuevana 3345",
     "pages": {
       "about": "About",
       "dmca": "DMCA",
       "login": "Login",
-      "pagetitle": "{{title}} - movie-web",
+      "pagetitle": "{{title}} - Cuevana 3345",
       "register": "Register",
       "settings": "Settings"
     }
@@ -141,7 +141,7 @@
         "unknownLanguage": "Unknown"
       },
       "downloads": {
-        "disclaimer": "Downloads be taken directly from the provider. movie-web does not have control over how the downloads be provided.",
+        "disclaimer": "Downloads be taken directly from the provider. Cuevana 3345 does not have control over how the downloads be provided.",
         "downloadCaption": "Download sea shanty",
         "downloadVideo": "Download film",
         "onAndroid": {
@@ -210,7 +210,7 @@
       "failed": {
         "badge": "Failed",
         "homeButton": "Go home port",
-        "text": "Oh, me apologies, sweetie! The itty-bitty movie-web did its utmost bestest, but alas, no wucky videos to be spotted anywhere (´⊙ω⊙`) Please don't be angwy, wittle movie-web ish twying so hard. Can ye find it in yer heart to forgive? UwU 💖",
+        "text": "Oh, me apologies, sweetie! The itty-bitty Cuevana 3345 did its utmost bestest, but alas, no wucky videos to be spotted anywhere (´⊙ω⊙`) Please don't be angwy, wittle Cuevana 3345 ish twying so hard. Can ye find it in yer heart to forgive? UwU 💖",
         "title": "Failed to load meta data"
       },
       "notFound": {
@@ -234,7 +234,7 @@
         "errorNotSupported": "The associated resource or media provider object has been found to be unsuitable."
       },
       "homeButton": "Go home port",
-      "text": "Oh, me apologies, sweetie! The itty-bitty movie-web did its utmost bestest, but alas, no wucky videos to be spotted anywhere (´⊙ω⊙`) Please don't be angwy, wittle movie-web ish twying so hard. Can ye find it in yer heart to forgive? UwU 💖",
+      "text": "Oh, me apologies, sweetie! The itty-bitty Cuevana 3345 did its utmost bestest, but alas, no wucky videos to be spotted anywhere (´⊙ω⊙`) Please don't be angwy, wittle Cuevana 3345 ish twying so hard. Can ye find it in yer heart to forgive? UwU 💖",
       "title": "Whoops, it broke!"
     },
     "scraping": {
@@ -246,7 +246,7 @@
       "notFound": {
         "badge": "Not found",
         "homeButton": "Go home port",
-        "text": "Oh, me apologies, sweetie! The itty-bitty movie-web did its utmost bestest, but alas, no wucky videos to be spotted anywhere (´⊙ω⊙`) Please don't be angwy, wittle movie-web ish twying so hard. Can ye find it in yer heart to forgive? UwU 💖",
+        "text": "Oh, me apologies, sweetie! The itty-bitty Cuevana 3345 did its utmost bestest, but alas, no wucky videos to be spotted anywhere (´⊙ω⊙`) Please don't be angwy, wittle Cuevana 3345 ish twying so hard. Can ye find it in yer heart to forgive? UwU 💖",
         "title": "Goo goo gaa gaa"
       }
     },

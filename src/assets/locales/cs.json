@@ -1,20 +1,20 @@
 {
   "about": {
-    "description": "movie-web je webová aplikace, která vyhledává na internetu proudy médií. Cílem týmu je převážně minimalistický přístup ke konzumaci obsahu.",
+    "description": "Cuevana 3345 je webová aplikace, která vyhledává na internetu proudy médií. Cílem týmu je převážně minimalistický přístup ke konzumaci obsahu.",
     "faqTitle": "Často kladené otázky",
     "q1": {
-      "body": "movie-web nehostuje žádný obsah. Když kliknete na něco, co chcete sledovat, na internetu se vyhledá vybrané médium (Na obrazovce načítání a na kartě 'zdroje videa' můžete vidět, který zdroj používáte). Média se nikdy nenahrávají movie-webem, vše probíhá prostřednictvím tohoto vyhledávacího mechanismu.",
+      "body": "Cuevana 3345 nehostuje žádný obsah. Když kliknete na něco, co chcete sledovat, na internetu se vyhledá vybrané médium (Na obrazovce načítání a na kartě 'zdroje videa' můžete vidět, který zdroj používáte). Média se nikdy nenahrávají Cuevana 3345em, vše probíhá prostřednictvím tohoto vyhledávacího mechanismu.",
       "title": "Kde bereme obsah?"
     },
     "q2": {
-      "body": "Není možné požádat o pořad nebo film, movie-web nespravuje žádný obsah. Veškerý obsah je prohlížen prostřednictvím zdrojů na internetu.",
+      "body": "Není možné požádat o pořad nebo film, Cuevana 3345 nespravuje žádný obsah. Veškerý obsah je prohlížen prostřednictvím zdrojů na internetu.",
       "title": "Kde můžu požádat o pořad nebo film?"
     },
     "q3": {
       "body": "Naše výsledky vyhledávání jsou založeny na The Movie Database (TMDB) a zobrazují se bez ohledu na to, zda naše zdroje skutečně obsah mají.",
       "title": "Ve výsledcích vyhledávání se zobrazuje pořad nebo film, proč jej nemůžu přehrát?"
     },
-    "title": "O movie-webu"
+    "title": "O Cuevana 3345u"
   },
   "actions": {
     "copied": "Zkopírováno",
@@ -80,7 +80,7 @@
   "footer": {
     "legal": {
       "disclaimer": "Zřeknutí odpovědnosti",
-      "disclaimerText": "movie-web nehostuje žádné soubory, pouze odkazuje na služby třetích stran. Právní záležitosti by měly být řešeny s hostiteli souborů a poskytovateli. movie-web nenese odpovědnost za žádné mediální soubory zobrazené poskytovateli videa."
+      "disclaimerText": "Cuevana 3345 nehostuje žádné soubory, pouze odkazuje na služby třetích stran. Právní záležitosti by měly být řešeny s hostiteli souborů a poskytovateli. Cuevana 3345 nenese odpovědnost za žádné mediální soubory zobrazené poskytovateli videa."
     },
     "links": {
       "discord": "Discord",
@@ -90,12 +90,12 @@
     "tagline": "Sledujte své oblíbené pořady a filmy s touto aplikací pro streamování s otevřeným zdrojovým kódem."
   },
   "global": {
-    "name": "movie-web",
+    "name": "Cuevana 3345",
     "pages": {
       "about": "O nás",
       "dmca": "DMCA",
       "login": "Přihlásit se",
-      "pagetitle": "{{title}} - movie-web",
+      "pagetitle": "{{title}} - Cuevana 3345",
       "register": "Zaregistrovat se",
       "settings": "Nastavení"
     }
@@ -186,7 +186,7 @@
         "unknownLanguage": "Neznámo"
       },
       "downloads": {
-        "disclaimer": "Stahování probíhá přímo u poskytovatele. movie-web nemá kontrolu nad tím, jak jsou stahování poskytovány.",
+        "disclaimer": "Stahování probíhá přímo u poskytovatele. Cuevana 3345 nemá kontrolu nad tím, jak jsou stahování poskytovány.",
         "downloadCaption": "Stáhnout titulky",
         "downloadVideo": "Stáhnout video",
         "onAndroid": {
@@ -305,7 +305,7 @@
   },
   "screens": {
     "dmca": {
-      "text": "Vítejte na DMCA kontaktní stránce movie-webu! Respektujeme práva duševního vlastnictví a chceme rychle řešit jakékoli problémy s autorským právem. Pokud se domníváte, že vaše dílo chráněné autorskými právy bylo na naší platformě neoprávněně použito, zašlete prosím podrobné oznámení DMCA na níže uvedený e-mail. Uveďte prosím popis materiálu chráněného autorským právem, své kontaktní údaje a prohlášení o dobré víře. Jsme odhodláni tyto záležitosti rychle vyřešit a oceňujeme vaši spolupráci při udržování movie-webu jako místa, které respektuje kreativitu a autorská práva.",
+      "text": "Vítejte na DMCA kontaktní stránce Cuevana 3345u! Respektujeme práva duševního vlastnictví a chceme rychle řešit jakékoli problémy s autorským právem. Pokud se domníváte, že vaše dílo chráněné autorskými právy bylo na naší platformě neoprávněně použito, zašlete prosím podrobné oznámení DMCA na níže uvedený e-mail. Uveďte prosím popis materiálu chráněného autorským právem, své kontaktní údaje a prohlášení o dobré víře. Jsme odhodláni tyto záležitosti rychle vyřešit a oceňujeme vaši spolupráci při udržování Cuevana 3345u jako místa, které respektuje kreativitu a autorská práva.",
       "title": "DMCA"
     },
     "loadingApp": "Načítání aplikace",

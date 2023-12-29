@@ -1,9 +1,9 @@
 {
   "about": {
-    "description": "movie-web ir tīmekļa lietojumprogramma, kas internetā meklē straumes. Komandas mērķis ir galvenokārt minimālistiska pieeja satura patērēšanai.",
+    "description": "Cuevana 3345 ir tīmekļa lietojumprogramma, kas internetā meklē straumes. Komandas mērķis ir galvenokārt minimālistiska pieeja satura patērēšanai.",
     "faqTitle": "Bieži jautājumi",
     "q1": {
-      "body": "Movie-web neveic nekādu saturu. Noklikšķinot uz kāda skatāma satura, internetā tiek meklēts atlasītais multivides saturs (ielādes ekrānā un cilnē “video avoti” varat redzēt, kuru avotu izmantojat). Multivide nekad netiek augšupielādēta, izmantojot filmu tīmekli, viss notiek caur šo meklēšanas mehānismu.",
+      "body": "Cuevana 3345 neveic nekādu saturu. Noklikšķinot uz kāda skatāma satura, internetā tiek meklēts atlasītais multivides saturs (ielādes ekrānā un cilnē “video avoti” varat redzēt, kuru avotu izmantojat). Multivide nekad netiek augšupielādēta, izmantojot filmu tīmekli, viss notiek caur šo meklēšanas mehānismu.",
       "title": "No kurienes nāk saturs?"
     },
     "q2": {
@@ -14,7 +14,7 @@
       "body": "Mūsu meklēšanas rezultātus nodrošina filmu datu bāze (TMDB), un tie tiek rādīti neatkarīgi no tā, vai mūsu avotos patiešām ir saturs.",
       "title": "Meklēšanas rezultātos tiek parādīta seriāls vai filma. Kāpēc es nevaru to atskaņot?"
     },
-    "title": "Par movie-web"
+    "title": "Par Cuevana 3345"
   },
   "actions": {
     "copied": "Nokopēts",
@@ -79,7 +79,7 @@
   "footer": {
     "legal": {
       "disclaimer": "Atruna",
-      "disclaimerText": "movie-web nemitina nekādus failus, tas tikai veido saites uz trešās puses pakalpojumiem. Juridiskie jautājumi ir jārisina ar failu resursdatoriem un nodrošinātājiem. movie-web nav atbildīgs par video pakalpojumu sniedzēju parādītajiem multivides failiem."
+      "disclaimerText": "Cuevana 3345 nemitina nekādus failus, tas tikai veido saites uz trešās puses pakalpojumiem. Juridiskie jautājumi ir jārisina ar failu resursdatoriem un nodrošinātājiem. Cuevana 3345 nav atbildīgs par video pakalpojumu sniedzēju parādītajiem multivides failiem."
     },
     "links": {
       "discord": "Discord",
@@ -185,7 +185,7 @@
         "unknownLanguage": "Nezināms"
       },
       "downloads": {
-        "disclaimer": "Lejupielādes tiek ņemtas tieši no pakalpojumu sniedzēja. Movie-web nevar kontrolēt, kā tiek nodrošinātas lejupielādes.",
+        "disclaimer": "Lejupielādes tiek ņemtas tieši no pakalpojumu sniedzēja. Cuevana 3345 nevar kontrolēt, kā tiek nodrošinātas lejupielādes.",
         "downloadCaption": "Lejupielādēt pašreizējo parakstu",
         "downloadVideo": "Lejupielādēt video",
         "onAndroid": {
